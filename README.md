@@ -1,3 +1,5 @@
+Hi! I am taking Swift & iOS - The Complete iOS App Development Bootcamp course and this is my second app. In the following days, I will continue this course and try to make the projects in the course with my own efforts and I will also continue to share my own projects on this GitHub profile.
+
 <img width="334" alt="Ekran Resmi 2023-12-24 03 07 32" src="https://github.com/ErenBal1/quick-answers-ball/assets/128086424/d1495872-b4bd-42ae-be86-921900a1547c">
 
 This is the intro.
